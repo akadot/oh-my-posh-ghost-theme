@@ -2,21 +2,21 @@
 
 Custom theme for Windows Terminal Powerline
 
-![Preview](https://github.com/muril0-0/oh-my-posh-ghost-theme/img/preview.jpg)
+![Preview](https://github.com/muril0-0/oh-my-posh-ghost-theme/tree/master/img/preview.jpg)
 
 ## Previews
 
 Need Git Commit
 
-![NeedCommit](https://github.com/muril0-0/oh-my-posh-ghost-theme/img/git-commit.jpg)
+![NeedCommit](https://github.com/muril0-0/oh-my-posh-ghost-theme/tree/master/img/git-commit.jpg)
 
 Need Git Push
 
-![NeedPush](https://github.com/muril0-0/oh-my-posh-ghost-theme/img/git-push.jpg)
+![NeedPush](https://github.com/muril0-0/oh-my-posh-ghost-theme/tree/master/img/git-push.jpg)
 
 Git Ok
 
-![Ok](https://github.com/muril0-0/oh-my-posh-ghost-theme/img/git-ok.jpg)
+![Ok](https://github.com/muril0-0/oh-my-posh-ghost-theme/tree/master/img/git-ok.jpg)
 
 ## Require
 
@@ -30,7 +30,7 @@ Requires [Oh-My-Posh](https://github.com/JanDeDobbeleer/oh-my-posh) installed.
 - Open Profile file, with command: notepad \$Profile;
 - Write this lines on Profile file:
 
-  - ![ProfileFile](https://github.com/muril0-0/oh-my-posh-ghost-theme/img/profile-file.jpg)
+  - ![ProfileFile](https://github.com/muril0-0/oh-my-posh-ghost-theme/tree/master/img/profile-file.jpg)
 
 ## Change username
 
